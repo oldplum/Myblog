@@ -1,0 +1,11 @@
+rsync -avz --delete -e "ssh -i ~/.ssh/id_rsa" public/ azureuser@70.153.16.253:/var/www/blog/#!/bin/bash
+echo "正在生成静态文件..."
+hexo clean && hexo generate
+if [ $? -eq 0 ]; then
+    echo "生成成功，开始同步到服务器..."
+    rsync -avz --delete -e "ssh -i /mnt/e/my-azure-vm-key.pem" public/ azureuser@70.153.16.253:/var/www/blog/
+    echo "部署完成！"
+else
+    echo "生成失败，请检查错误。"
+    exit 1
+fi
