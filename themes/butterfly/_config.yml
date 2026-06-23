@@ -293,10 +293,10 @@ reward:
 # 方便在线查看和编辑博客源代码
 post_edit:
   # 启用编辑按钮
-  enable: false
+  enable: true
   # 编辑链接模板
   # 例如: https://github.com/用户名/仓库名/edit/分支名/source/
-  url:
+  url: https://github.com/oldplum/Myblog/edit/main/source/
 
 # 相关文章
 related_post:
