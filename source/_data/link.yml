@@ -1,0 +1,6 @@
+- class_name: 博客友链
+  link_list:
+    - name: jeanhua's blog
+      link: https://blog.jeanhua.cn
+      avatar: https://q1.qlogo.cn/g?b=qq&nk=2207739460&s=0
+      descr: jeanhua的个人博客
