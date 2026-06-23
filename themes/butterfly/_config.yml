@@ -478,7 +478,7 @@ rightside_bottom:
 
 # 繁简转换
 translate:
-  enable: false
+  enable: true
   # 按钮显示的文字
   default: 繁
   # 网站默认语言
