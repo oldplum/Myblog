@@ -9,7 +9,7 @@ description: 'Stanley Lee (oldplum) 的个人博客，记录技术 & 生活'
 keywords: '技术, 生活, 个人博客'
 author: 'Stanley Lee (oldplum)'
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
