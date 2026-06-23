@@ -86,7 +86,7 @@ social:
 # 网站图标
 # 推荐用 32x32 或 64x64 的 png 图片
 # 放在 themes/butterfly/source/img/ 目录下
-favicon: /img/favicon.png
+favicon: /img/avatar.png
 
 avatar:
   # 头像图片路径
@@ -102,7 +102,7 @@ disable_top_img: false
 
 # 如果页面横幅未设置，将显示默认横幅
 # 可以设置一个默认的横幅图片路径
-default_top_img:
+default_top_img: /img/index_img.jpg
 
 # 首页顶部横幅图片
 index_img: /img/index_img.jpg
@@ -211,7 +211,7 @@ index_top_img_height:
 # 首页副标题
 subtitle:
   # 启用副标题
-  enable: false
+  enable: true
   # 打字机效果
   effect: true
   # 自定义 typed.js 配置（需要懂 JavaScript）
@@ -220,7 +220,7 @@ subtitle:
   # false = 禁用 | 1 = hitokoto.cn | 2 = https://api.aa1.cn/doc/yiyan.html | 3 = jinrishici.com
   source: false
   # 如果关闭打字机效果，副标题只显示第一行
-  sub:
+  sub: "迎一片春来，等一场花开"
 
 # 首页文章布局
 # 1 = 封面在左，信息在右
@@ -656,7 +656,7 @@ comments:
   # 最多两个评论系统，第一个作为默认显示
   # 可选：Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
   # 留空表示不使用评论
-  use:
+  use: Giscus
   # 在按钮旁边显示评论系统名称
   text: true
   # 懒加载：评论系统在元素进入可视区域时加载
@@ -735,13 +735,18 @@ twikoo:
 
 # Giscus
 giscus:
-  repo:
-  repo_id:
-  category_id:
-  light_theme: light
-  dark_theme: dark
+  repo: oldplum/myblog
+  repo_id: R_kgDOTB4hcw
+  category_id: DIC_kwDOTB4hc84C_uOy
+  light_theme: light_high_contrast
+  dark_theme: dark_high_contrast
   js:
   option:
+    mapping: pathname
+    reactionsEnabled: 1
+    emitMetadata: 0
+    inputPosition: bottom
+    lang: zh-CN
 
 # Remark42
 remark42:
