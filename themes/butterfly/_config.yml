@@ -218,9 +218,9 @@ subtitle:
   typed_option:
   # 副标题来源（仅中文）
   # false = 禁用 | 1 = hitokoto.cn | 2 = https://api.aa1.cn/doc/yiyan.html | 3 = jinrishici.com
-  source: false
+  source: 1
   # 如果关闭打字机效果，副标题只显示第一行
-  sub: "迎一片春来，等一场花开"
+  sub:
 
 # 首页文章布局
 # 1 = 封面在左，信息在右
