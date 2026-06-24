@@ -575,8 +575,8 @@ math:
   # 选择数学公式渲染器
   # mathjax = MathJax | katex = KaTeX
   # 留空表示不使用数学公式
-  use: MathJax
-  per_page: false
+  use: mathjax
+  per_page: true
   hide_scrollbar: false
 
   mathjax:

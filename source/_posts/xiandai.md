@@ -5,7 +5,6 @@ tags:
   - 线性代数
   - 数学
 categories: 数学学习
-mathjax: true
 ---
 
 # 1. 行列式的性质和计算
