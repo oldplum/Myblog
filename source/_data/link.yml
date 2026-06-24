@@ -9,3 +9,10 @@
       link: https://blog.57u.tech/
       avatar: https://avatars.githubusercontent.com/u/62684955
       descr: 57U的博客
+
+- class_name: 我的工具
+  link_list:
+    - name: oldplumDrive
+      link: https://drive.oldplum.dev
+      avatar: /images/cloudreve.png
+      descr: 自己做的网盘
