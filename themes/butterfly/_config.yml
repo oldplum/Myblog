@@ -599,8 +599,8 @@ search:
   # 选择搜索引擎
   # algolia_search = Algolia | local_search = 本地搜索 | docsearch = DocSearch
   # 留空表示不使用搜索
-  use:
-  placeholder:
+  use: local_search
+  placeholder: 搜索
 
   # Algolia Search
   algolia_search:
@@ -610,14 +610,14 @@ search:
   # 本地搜索
   local_search:
     # 页面加载时预加载搜索数据
-    preload: false
+    preload: true
     # 每篇文章显示前 n 个结果，-1 显示全部
     top_n_per_article: 1
     # 转义 HTML 字符串为可读格式
     unescape: false
     # 启用搜索结果分页
     pagination:
-      enable: false
+      enable: true
       # 每页显示的搜索结果数量
       hitsPerPage: 8
     CDN:
