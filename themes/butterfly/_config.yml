@@ -254,13 +254,13 @@ toc:
   # 在普通页面显示目录
   page: false
   # 在目录中显示编号
-  number: true
+  number: false
   # 自动展开所有目录项
   expand: false
   # 仅文章页使用简洁目录样式
   style_simple: false
   # 在目录中显示滚动进度
-  scroll_percent: true
+  scroll_percent: false
 
 post_copyright:
   # 启用文章版权信息
@@ -506,7 +506,7 @@ darkmode:
   # 1 = 跟随系统设置，如果系统不支持暗色模式，将在晚上 6 点到早上 6 点切换
   # 2 = 在晚上 6 点到早上 6 点切换
   # false = 不自动切换
-  autoChangeMode: ture
+  autoChangeMode: true
   # 设置亮色模式时间段，值在 0-24 之间
   # 如果不设置，默认 6 点到 18 点
   start: 6
