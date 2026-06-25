@@ -187,7 +187,7 @@ post_meta:
     # left = 左对齐 | center = 居中
     position: left
     # 日期显示类型
-    date_type: both
+    date_type: created
     # 日期显示格式
     date_format: date
     # 显示分类
