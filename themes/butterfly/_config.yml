@@ -549,7 +549,7 @@ copy:
 
 # 字数统计 - 需要安装 hexo-wordcount 插件
 wordcount:
-  enable: false
+  enable: true
   # 在文章元信息中显示字数
   post_wordcount: true
   # 在文章元信息中显示阅读时间
