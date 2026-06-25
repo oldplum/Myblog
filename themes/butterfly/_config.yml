@@ -506,7 +506,7 @@ darkmode:
   # 1 = 跟随系统设置，如果系统不支持暗色模式，将在晚上 6 点到早上 6 点切换
   # 2 = 在晚上 6 点到早上 6 点切换
   # false = 不自动切换
-  autoChangeMode: true
+  autoChangeMode: 2
   # 设置亮色模式时间段，值在 0-24 之间
   # 如果不设置，默认 6 点到 18 点
   start: 6
