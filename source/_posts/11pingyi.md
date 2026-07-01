@@ -15,7 +15,7 @@ categories: [足球]
 
 <strong>评议组观点（一致认为）：</strong>处于越位位置的天津津门虎7号队员虽未触及球，但其做出的明显举动对重庆铜梁龙守门员处理球能力造成了影响，应视为干扰对方队员的越位犯规。裁判员经在场回看确认后，判定天津津门虎7号越位犯规在先、进球无效的决定<span style="color: green;">正确</span>。
 
-视频地址：http://t.cn/AXoLymsP
+<iframe src="https://weibo.com/tv/show/1034:5315946483744834?from=old_pc_videoshow" width="100%" height="500" frameborder="0" allowfullscreen></iframe>
 
 ### 判例二
 中超联赛第16轮，北京国安VS武汉三镇。比赛第52分钟，武汉三镇7号队员在对方罚球区线附近与北京国安8号队员接触后倒地。裁判员判北京国安8号在本方罚球区内犯规，并判罚球点球。VAR介入后，裁判员最终认定犯规地点在罚球区外，改判由武汉三镇队踢直接任意球。
