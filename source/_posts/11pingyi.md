@@ -26,7 +26,7 @@ categories: [足球]
 
 <strong>评议组观点（一致认为）：</strong>从VAR检查视频中的相关画面看，北京国安8号犯规的接触点在罚球区外，不构成罚球点球。经VAR介入后，裁判员判由武汉三镇队踢直接任意球的决定<span style="color: green;">正确</span>。VAR介入<span style="color: green;">正确</span>。
 
-<iframe src="https://weibo.com/tv/show/1034:5315946483744834?from=old_pc_videoshow" width="100%" height="500" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://weibo.com/tv/show/1034:5315946504454202?from=old_pc_videoshow" width="100%" height="500" frameborder="0" allowfullscreen></iframe>
 
 
 ### 判例三
