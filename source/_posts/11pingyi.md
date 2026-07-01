@@ -26,7 +26,7 @@ categories: [足球]
 
 <strong>评议组观点（一致认为）：</strong>从VAR检查视频中的相关画面看，北京国安8号犯规的接触点在罚球区外，不构成罚球点球。经VAR介入后，裁判员判由武汉三镇队踢直接任意球的决定<span style="color: green;">正确</span>。VAR介入<span style="color: green;">正确</span>。
 
-视频地址：http://t.cn/AXoLyuPr
+<iframe src="https://weibo.com/tv/show/1034:5315946483744834?from=old_pc_videoshow" width="100%" height="500" frameborder="0" allowfullscreen></iframe>
 
 
 ### 判例三
@@ -38,7 +38,7 @@ categories: [足球]
 
 <strong>评议组观点（一致认为）：</strong>球经北京国安队7号身体近距离折射后意外接触北京国安8号手臂，其手臂位置不属于使身体不自然扩大并冒手球犯规风险的情形，不构成手球犯规。裁判员未判罚手球犯规<span style="color: green;">正确</span>。VAR未介入<span style="color: green;">正确</span>。
 
-视频地址：http://t.cn/AXoLyuzI
+<iframe src="https://weibo.com/tv/show/1034:5315946525425801?from=old_pc_videoshow" width="100%" height="500" frameborder="0" allowfullscreen></iframe>
 
 ### 判例四
 中超联赛第16轮，大连英博海发VS上海申花。比赛第19分钟，上海申花19号队员在对方罚球区内与大连英博海发6号队员接触后倒地，裁判员未判罚犯规，VAR介入，裁判员经在场回看后，判大连英博海发6号犯规并判罚球点球。
@@ -49,4 +49,4 @@ categories: [足球]
 
 <strong>评议组观点（多数成员认为）：</strong>上海申花19号在争抢中率先触球，且属于合理动作。大连英博海发6号试图踢球时踢到上海申花19号，并具有一定力度，属于草率踢人犯规。裁判员经在场回看后判大连英博海发6号犯规并判罚球点球的最终决定<span style="color: green;">正确</span>。VAR介入<span style="color: green;">正确</span>。
 
-视频地址：http://t.cn/AXoLyuwE
+<iframe src="https://weibo.com/tv/show/1034:5315946546659418?from=old_pc_videoshow" width="100%" height="500" frameborder="0" allowfullscreen></iframe>
