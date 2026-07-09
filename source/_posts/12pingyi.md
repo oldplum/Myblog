@@ -28,3 +28,5 @@ categories: [足球]
   - *评议还将其与十一期天津津门虎情况作对比：* 与第十一期评议中天津津门虎队7号队员越位犯规的情形**不同**，青岛海牛6号未试图触球或做出明显的举动对成都蓉城守门员处理球造成干扰，其转身动作是在球已经经过之后随球做出的；成都蓉城守门员全程可以看到球的运行路线，移动选位和做出扑救动作的能力未受影响。
   
   因此青岛海牛6号不构成越位犯规，进球应有效。此判例裁判员维持进球有效的决定<span style="color: green;">正确</span>。VAR介入<span style="color: red;">错误</span>。
+
+<iframe src="https://weibo.com/tv/show/1034:5318449686052910?from=old_pc_videoshow" width="100%" height="500" frameborder="0" allowfullscreen></iframe>
