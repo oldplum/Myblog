@@ -236,6 +236,15 @@ soccer_action_t detect_soccer_action(float ax, float ay, float az,
 
 ## 📊 成果展示与实测表现
 
+### 🎥 实测与演示视频
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; margin: 15px 0;">
+  <iframe src="//player.bilibili.com/player.html?bvid=BV1FqhK6cEnd&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"></iframe>
+</div>
+<p align="center" style="font-size: 13px; color: #888;">👆 点击播放实物演示视频（若无法播放可前往 <a href="https://www.bilibili.com/video/BV1FqhK6cEnd/" target="_blank">B站观看</a>）</p>
+
+---
+
 经过团队的多轮操场实测与系统联调，原型机交出了一份亮眼的成绩单：
 
 * **动作识别准确率**：在 100+ 次真实抽射与推传测试中，交叉验证动作识别准确率超过 **86.4%***（瞎编的，其实准确率没有真正测试过）*；
@@ -263,5 +272,13 @@ soccer_action_t detect_soccer_action(float ax, float ay, float az,
 
 ---
 
-*感谢乐鑫科技提供的 ESP32-C5 硬件平台与开源生态支持！欢迎大家在评论区与 GitHub 仓库交流指正！*
+## 💐 特别致谢
+
+一个项目的诞生与落地离不开背后多方的支持与帮助，在此特别感谢：
+1. **张卫华老师**：感谢张老师在《开源硬件助力创新实践》课程中的启发与悉心指导，并在硬件断连、总线雪崩时给予我们关键的技术支持与焊接救援！
+2. **并肩作战的队友们**：感谢各位队友（包括被我拉进坑的 *crush* 😉），大家的信任与包容让这段队长经历虽然疲惫但无比难忘。
+3. **乐鑫科技（Espressif）**：感谢乐鑫科技提供的 ESP32-C5 硬件平台与开源生态支持！
+
+欢迎大家在评论区与 GitHub 仓库交流指正！
+
 > **本项目软件开源地址**：`https://github.com/oldplum/smart_soccer_trainer`
