@@ -351,7 +351,7 @@ footer:
     # 显示主题和 Hexo 版本
     version: true
   # 自定义页脚文字（支持 HTML）
-  custom_text:
+  custom_text: '<a href="https://icp.gov.moe/?keyword=20260879" target="_blank" style="color:#aaa;">萌ICP备20260879号</a>'
 
 # --------------------------------------
 # Aside Settings
@@ -1149,7 +1149,6 @@ inject:
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
     # - <script src="xxxx"></script>
-    - '<div style="text-align:center;font-size:14px;margin-top:10px;"><a href="https://icp.gov.moe/?keyword=20260879" target="_blank">萌ICP备20260879号</a></div>'
 
 # CDN 设置
 # 除非你知道它们如何工作，否则不要修改以下设置
