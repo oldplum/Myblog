@@ -10,9 +10,14 @@
       avatar: https://avatars.githubusercontent.com/u/62684955
       descr: 57U的博客
 
+    - name: 数字田园的悠然漫步
+      link: https://blog.gardenwalk.moe
+      avatar: https://blog.gardenwalk.moe/wp-content/uploads/1737602734-icon.png
+      descr: 采菊东篱下，悠然见南山。
+
 - class_name: 我的工具
   link_list:
     - name: oldplumDrive
       link: https://drive.oldplum.dev
       avatar: /images/cloudreve.png
-      descr: 自己做的网盘
+      descr: 自己部署的网盘
