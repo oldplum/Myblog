@@ -30,7 +30,7 @@ jobs:
           sed -i 's|^url:.*|url: https://oldplum.github.io/Myblog|' _config.yml
           sed -i 's|^root:.*|root: /Myblog/|' _config.yml
           sed -i "s|^title:.*|title: oldplum's blog（备用站）|" _config.yml
-          sed -i 's#备用站: https://oldplum.github.io/Myblog/ || fas fa-server#主站: https://blog.oldplum.dev/ || fas fa-home#' themes/butterfly/_config.yml
+          sed -i 's#备用站: https://oldplum.github.io/Myblog/ || fas fa-cloud#主站: https://blog.oldplum.dev/ || fas fa-globe#' themes/butterfly/_config.yml
 
       - name: Generate static files
         run: npx hexo generate
