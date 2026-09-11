@@ -36,6 +36,7 @@ menu:
   分类: /categories/ || fas fa-folder-open
   标签: /tags/ || fas fa-tags
   友链: /link/ || fas fa-link
+  备用站: https://oldplum.github.io/Myblog/ || fas fa-server
 
 # --------------------------------------
 # Code Blocks Settings
