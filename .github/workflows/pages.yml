@@ -29,6 +29,7 @@ jobs:
         run: |
           sed -i 's|^url:.*|url: https://oldplum.github.io/Myblog|' _config.yml
           sed -i 's|^root:.*|root: /Myblog/|' _config.yml
+          sed -i "s|^title:.*|title: oldplum's blog（备用站）|" _config.yml
 
       - name: Generate static files
         run: npx hexo generate
