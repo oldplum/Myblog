@@ -5,19 +5,30 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout source
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: '20'
+          cache: 'npm'
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
+
+      - name: Override URL for GitHub Pages
+        run: |
+          sed -i 's|^url:.*|url: https://oldplum.github.io/Myblog|' _config.yml
+          sed -i 's|^root:.*|root: /Myblog/|' _config.yml
 
       - name: Generate static files
         run: npx hexo generate
