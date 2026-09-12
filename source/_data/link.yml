@@ -21,3 +21,8 @@
       link: https://drive.oldplum.dev
       avatar: /images/cloudreve.png
       descr: 自己部署的网盘
+
+    - name: oldplumMail
+      link: https://mail.oldplum.dev
+      avatar: /images/mail.png
+      descr: 自己部署的邮件服务
